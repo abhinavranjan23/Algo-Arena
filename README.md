@@ -2,7 +2,7 @@
 
 AlgoArena is a real-time, full-stack competitive programming platform built using the MERN stack. It enables users to solve algorithmic challenges, get personalized difficulty recommendations, submit code in multiple languages, and compete on real-time leaderboards — all within a secure, scalable architecture.
 
-![AlgoArena Banner](<img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/38326fbc-00aa-4b0e-878a-06466e2dfdcf" />
+![AlgoArena Banner](https://res.cloudinary.com/dksf1htal/image/upload/v1753096293/algo_dqw8tm.png
 ) <!-- Optional -->
 
 ---
